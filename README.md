@@ -1,7 +1,6 @@
 ## Hello there! 👋
 
-![GIF](https://i.imgur.com/VQcn04H.gif)
-
+![GIF](https://github.com/jeroenwtf/jeroenwtf/blob/master/monkey.gif)
 
 #### Where to find me
 
@@ -13,7 +12,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jeroenwtf)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/jeroenwtf/)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jeroen/)
-
 
 #### Buzzwords
 
